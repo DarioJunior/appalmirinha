@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6df1b4326e3f7b15296cc2790ba8892",
+    "revision": "c034e4568041604897592a4470fe626a",
     "url": "/appalmirinha/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appalmirinha/static/css/2.74662cff.chunk.css"
   },
   {
-    "revision": "b93d21cd43048dff854f",
+    "revision": "2f162d1a7407320385ba",
     "url": "/appalmirinha/static/css/main.992129c9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appalmirinha/static/js/2.19f7f70e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b93d21cd43048dff854f",
-    "url": "/appalmirinha/static/js/main.fcf89369.chunk.js"
+    "revision": "2f162d1a7407320385ba",
+    "url": "/appalmirinha/static/js/main.11de8c54.chunk.js"
   },
   {
     "revision": "e8da660508d99aa52972",
