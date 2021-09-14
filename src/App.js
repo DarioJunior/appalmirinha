@@ -20,7 +20,7 @@ import NotFound from './pages/NotFound';
 function App() {
   return (
     <div className="meals">
-      <BrowserRouter>
+      <BrowserRouter basename="/appalmirinha">
         <RecipesProvider>
           <Switch>
             <Route exact path="/" component={ Login } />
