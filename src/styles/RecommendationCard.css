@@ -1,0 +1,38 @@
+.recCardContainer {
+ background-color: white;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  height: 172px;
+  align-items: center;
+  justify-content: space-around;
+  width: 137.5px;
+  margin: 0 5px !important;
+  padding-top: 15px;
+  overflow: hidden;
+}
+
+.recImageRecipe {
+  /* background-color: red; */
+  height: 100px;
+  width: 80%;
+  border-radius: 17px;
+}
+
+.recNameRecipe {
+  background-color: white;
+  color: black;
+  font-family: Verdana , sans-serif;
+  font-size: 14px;
+  height: 40px;
+  width: 80%;
+  font-weight: 700;
+  margin-bottom: -18px;
+}
+
+.recCategoryRecipe {
+  background-color: white;
+  width: 80%;
+  font-size: 12px;
+  margin-top: -5px;
+}
