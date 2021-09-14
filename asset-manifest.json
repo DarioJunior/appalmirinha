@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/appalmirinha/static/css/main.992129c9.chunk.css",
+    "main.js": "/appalmirinha/static/js/main.fcf89369.chunk.js",
+    "main.js.map": "/appalmirinha/static/js/main.fcf89369.chunk.js.map",
+    "runtime-main.js": "/appalmirinha/static/js/runtime-main.aa974ff7.js",
+    "runtime-main.js.map": "/appalmirinha/static/js/runtime-main.aa974ff7.js.map",
+    "static/css/2.74662cff.chunk.css": "/appalmirinha/static/css/2.74662cff.chunk.css",
+    "static/js/2.19f7f70e.chunk.js": "/appalmirinha/static/js/2.19f7f70e.chunk.js",
+    "static/js/2.19f7f70e.chunk.js.map": "/appalmirinha/static/js/2.19f7f70e.chunk.js.map",
+    "index.html": "/appalmirinha/index.html",
+    "precache-manifest.1930f8979273a014d78471a328370f47.js": "/appalmirinha/precache-manifest.1930f8979273a014d78471a328370f47.js",
+    "service-worker.js": "/appalmirinha/service-worker.js",
+    "static/css/2.74662cff.chunk.css.map": "/appalmirinha/static/css/2.74662cff.chunk.css.map",
+    "static/css/main.992129c9.chunk.css.map": "/appalmirinha/static/css/main.992129c9.chunk.css.map",
+    "static/js/2.19f7f70e.chunk.js.LICENSE.txt": "/appalmirinha/static/js/2.19f7f70e.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/appalmirinha/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/appalmirinha/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/appalmirinha/static/media/exploreIcon.157945ff.svg",
+    "static/media/left-arrow-next-svgrepo-com.svg": "/appalmirinha/static/media/left-arrow-next-svgrepo-com.fdc71414.svg",
+    "static/media/mealIcon.svg": "/appalmirinha/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/appalmirinha/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/appalmirinha/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/appalmirinha/static/media/shareIcon.06215ed4.svg",
+    "static/media/trybe_cook.svg": "/appalmirinha/static/media/trybe_cook.f96af36d.svg",
+    "static/media/whiteHeartIcon.svg": "/appalmirinha/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa974ff7.js",
+    "static/css/2.74662cff.chunk.css",
+    "static/js/2.19f7f70e.chunk.js",
+    "static/css/main.992129c9.chunk.css",
+    "static/js/main.fcf89369.chunk.js"
+  ]
+}
