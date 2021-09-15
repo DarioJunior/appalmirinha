@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/appalmirinha/static/css/main.992129c9.chunk.css",
-    "main.js": "/appalmirinha/static/js/main.11de8c54.chunk.js",
-    "main.js.map": "/appalmirinha/static/js/main.11de8c54.chunk.js.map",
+    "main.css": "/appalmirinha/static/css/main.6ad6c4b8.chunk.css",
+    "main.js": "/appalmirinha/static/js/main.d0cbf435.chunk.js",
+    "main.js.map": "/appalmirinha/static/js/main.d0cbf435.chunk.js.map",
     "runtime-main.js": "/appalmirinha/static/js/runtime-main.aa974ff7.js",
     "runtime-main.js.map": "/appalmirinha/static/js/runtime-main.aa974ff7.js.map",
     "static/css/2.74662cff.chunk.css": "/appalmirinha/static/css/2.74662cff.chunk.css",
-    "static/js/2.19f7f70e.chunk.js": "/appalmirinha/static/js/2.19f7f70e.chunk.js",
-    "static/js/2.19f7f70e.chunk.js.map": "/appalmirinha/static/js/2.19f7f70e.chunk.js.map",
+    "static/js/2.75a78fa9.chunk.js": "/appalmirinha/static/js/2.75a78fa9.chunk.js",
+    "static/js/2.75a78fa9.chunk.js.map": "/appalmirinha/static/js/2.75a78fa9.chunk.js.map",
     "index.html": "/appalmirinha/index.html",
-    "precache-manifest.f30a0fbf6a18bf41d2a13c84dae5a6f6.js": "/appalmirinha/precache-manifest.f30a0fbf6a18bf41d2a13c84dae5a6f6.js",
+    "precache-manifest.a090264bf18a0571cd54b46be98b678c.js": "/appalmirinha/precache-manifest.a090264bf18a0571cd54b46be98b678c.js",
     "service-worker.js": "/appalmirinha/service-worker.js",
     "static/css/2.74662cff.chunk.css.map": "/appalmirinha/static/css/2.74662cff.chunk.css.map",
-    "static/css/main.992129c9.chunk.css.map": "/appalmirinha/static/css/main.992129c9.chunk.css.map",
-    "static/js/2.19f7f70e.chunk.js.LICENSE.txt": "/appalmirinha/static/js/2.19f7f70e.chunk.js.LICENSE.txt",
+    "static/css/main.6ad6c4b8.chunk.css.map": "/appalmirinha/static/css/main.6ad6c4b8.chunk.css.map",
+    "static/js/2.75a78fa9.chunk.js.LICENSE.txt": "/appalmirinha/static/js/2.75a78fa9.chunk.js.LICENSE.txt",
     "static/media/blackHeartIcon.svg": "/appalmirinha/static/media/blackHeartIcon.b8913346.svg",
     "static/media/drinkIcon.svg": "/appalmirinha/static/media/drinkIcon.f87c47c3.svg",
     "static/media/exploreIcon.svg": "/appalmirinha/static/media/exploreIcon.157945ff.svg",
@@ -22,14 +22,14 @@
     "static/media/profileIcon.svg": "/appalmirinha/static/media/profileIcon.74e487e5.svg",
     "static/media/searchIcon.svg": "/appalmirinha/static/media/searchIcon.db812135.svg",
     "static/media/shareIcon.svg": "/appalmirinha/static/media/shareIcon.06215ed4.svg",
-    "static/media/trybe_cook.svg": "/appalmirinha/static/media/trybe_cook.f96af36d.svg",
+    "static/media/trybe_cook.svg": "/appalmirinha/static/media/trybe_cook.da75004a.svg",
     "static/media/whiteHeartIcon.svg": "/appalmirinha/static/media/whiteHeartIcon.ea3b6ba8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa974ff7.js",
     "static/css/2.74662cff.chunk.css",
-    "static/js/2.19f7f70e.chunk.js",
-    "static/css/main.992129c9.chunk.css",
-    "static/js/main.11de8c54.chunk.js"
+    "static/js/2.75a78fa9.chunk.js",
+    "static/css/main.6ad6c4b8.chunk.css",
+    "static/js/main.d0cbf435.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c034e4568041604897592a4470fe626a",
+    "revision": "829a39d412fc453cabe1b9d955c3e029",
     "url": "/appalmirinha/index.html"
   },
   {
-    "revision": "d3fd018905ddb686656b",
+    "revision": "27091b8bb77d1afd978c",
     "url": "/appalmirinha/static/css/2.74662cff.chunk.css"
   },
   {
-    "revision": "2f162d1a7407320385ba",
-    "url": "/appalmirinha/static/css/main.992129c9.chunk.css"
+    "revision": "2cd569715ae1e16b263e",
+    "url": "/appalmirinha/static/css/main.6ad6c4b8.chunk.css"
   },
   {
-    "revision": "d3fd018905ddb686656b",
-    "url": "/appalmirinha/static/js/2.19f7f70e.chunk.js"
+    "revision": "27091b8bb77d1afd978c",
+    "url": "/appalmirinha/static/js/2.75a78fa9.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/appalmirinha/static/js/2.19f7f70e.chunk.js.LICENSE.txt"
+    "url": "/appalmirinha/static/js/2.75a78fa9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f162d1a7407320385ba",
-    "url": "/appalmirinha/static/js/main.11de8c54.chunk.js"
+    "revision": "2cd569715ae1e16b263e",
+    "url": "/appalmirinha/static/js/main.d0cbf435.chunk.js"
   },
   {
     "revision": "e8da660508d99aa52972",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appalmirinha/static/media/shareIcon.06215ed4.svg"
   },
   {
-    "revision": "f96af36da4e16e22abd3f33d3dad8651",
-    "url": "/appalmirinha/static/media/trybe_cook.f96af36d.svg"
+    "revision": "da75004a276b845fd2cc548cdb000b4e",
+    "url": "/appalmirinha/static/media/trybe_cook.da75004a.svg"
   },
   {
     "revision": "ea3b6ba893ba3908dd84f6170b75545e",
