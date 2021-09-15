@@ -16,11 +16,11 @@ function FavoriteRecipes({ filterBy }) {
   }, []);
 
   useEffect(() => {
-    if (favoriteRecipes.length !== 0) {
+    if (favoriteRecipes && favoriteRecipes.length !== 0) {
       setIsEmpty(false);
       setRender(false);
     }
-    if (favoriteRecipes.length === 0) setIsEmpty(true);
+    if (favoriteRecipes && favoriteRecipes.length === 0) setIsEmpty(true);
   }, [favoriteRecipes]);
 
   useEffect(() => {
@@ -41,7 +41,7 @@ function FavoriteRecipes({ filterBy }) {
     <div className="FavoriteRecipesContainer">
       {
         isEmpty
-          ? <Loading />
+          ? <div className="f-loading"><Loading /></div>
           : favoriteRecipes.map(
             (recipe, index) => (
               <FavoriteRecipeCard

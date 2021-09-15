@@ -25,11 +25,17 @@ export default function Login() {
     localStorage.setItem('favoriteRecipes', JSON.stringify([]));
     localStorage.setItem('mealsToken', JSON.stringify(1));
     localStorage.setItem('cocktailsToken', JSON.stringify(1));
+    localStorage.setItem('inProgressRecipes', JSON.stringify({
+      cocktails: {},
+      meals: {},
+    }));
+    localStorage.setItem('doneRecipes', JSON.stringify([]));
     history.push('/comidas');
   };
 
   return (
     <div className="loginContainer">
+      <h1 className="appalmirinha">ApPalmirinha</h1>
       <img src={trybeCook} alt="trybe_cook" />
       <form
         className="login-form"

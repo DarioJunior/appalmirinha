@@ -1,24 +1,29 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import ButtonSurpriseMe from '../components/ButtonSurpriseMe';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
+import '../styles/ExplorarBebidas.css';
+
 
 function ExplorarBebidas() {
   return (
-    <div>
+    <div style={{
+      height: '640px',
+      backgroundColor: "#f6f6f6",
+    }}>
       <Header title="Explorar Bebidas" />
-      <Link
-        to="/explorar/bebidas/ingredientes"
-        data-testid="explore-by-ingredient"
-      >
-        Por Ingredientes
-      </Link>
-      <Link
-        to="/explorar/comidas"
-        data-testid="explore-surprise"
-      >
-        Me Surpreenda!
-      </Link>
+      <div className="explorar-bebidas-content">
+        <Link
+          to="/explorar/bebidas/ingredientes"
+          data-testid="explore-by-ingredient"
+          >
+          <button type="button">
+            Por Ingredientes
+          </button>
+        </Link>
+        <ButtonSurpriseMe />
+      </div>
       <Footer />
     </div>
   );

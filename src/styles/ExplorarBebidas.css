@@ -1,16 +1,11 @@
-.explorar-container {
-  background-color: #f6f6f6;
-  height: 640px;
-  width: 360px;
-}
-
-.explorar-content {
+.explorar-bebidas-content {
   align-items: center;
+  background-color: #f6f6f6;
   display: flex;
   flex-direction: column;
 }
 
-.explore-food button, .explore-drinks button {
+.explorar-bebidas-content button {
   background-color: #0fa36b;
   border-radius: 20px;
   border: none;
