@@ -1,6 +1,6 @@
 {
-  "homepage": "http://alexandremhm.github.io/appalmirinha",
-  "name": "recipes-app-test",
+  "homepage": "http://dariojunior.github.io/appalmirinha",
+  "name": "recipes-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
