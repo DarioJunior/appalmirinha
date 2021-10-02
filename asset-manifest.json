@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/appalmirinha/static/css/main.6ad6c4b8.chunk.css",
-    "main.js": "/appalmirinha/static/js/main.e566ed7c.chunk.js",
-    "main.js.map": "/appalmirinha/static/js/main.e566ed7c.chunk.js.map",
+    "main.js": "/appalmirinha/static/js/main.84a28833.chunk.js",
+    "main.js.map": "/appalmirinha/static/js/main.84a28833.chunk.js.map",
     "runtime-main.js": "/appalmirinha/static/js/runtime-main.aa974ff7.js",
     "runtime-main.js.map": "/appalmirinha/static/js/runtime-main.aa974ff7.js.map",
     "static/css/2.74662cff.chunk.css": "/appalmirinha/static/css/2.74662cff.chunk.css",
     "static/js/2.75a78fa9.chunk.js": "/appalmirinha/static/js/2.75a78fa9.chunk.js",
     "static/js/2.75a78fa9.chunk.js.map": "/appalmirinha/static/js/2.75a78fa9.chunk.js.map",
     "index.html": "/appalmirinha/index.html",
-    "precache-manifest.ad5ea3c471f9c75f28ff3a84e7f76f0f.js": "/appalmirinha/precache-manifest.ad5ea3c471f9c75f28ff3a84e7f76f0f.js",
+    "precache-manifest.7ec4154b0e38026a64912be34dc579cb.js": "/appalmirinha/precache-manifest.7ec4154b0e38026a64912be34dc579cb.js",
     "service-worker.js": "/appalmirinha/service-worker.js",
     "static/css/2.74662cff.chunk.css.map": "/appalmirinha/static/css/2.74662cff.chunk.css.map",
     "static/css/main.6ad6c4b8.chunk.css.map": "/appalmirinha/static/css/main.6ad6c4b8.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.74662cff.chunk.css",
     "static/js/2.75a78fa9.chunk.js",
     "static/css/main.6ad6c4b8.chunk.css",
-    "static/js/main.e566ed7c.chunk.js"
+    "static/js/main.84a28833.chunk.js"
   ]
 }
